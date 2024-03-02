@@ -1,4 +1,4 @@
-### Example of a Flask-Mongodb Dockerized application
+## Example of a Flask-Mongodb Dockerized application
 
 It just add a **todo** list of elements when inputing text tasks 
 to the form and then clicking the submit button.
